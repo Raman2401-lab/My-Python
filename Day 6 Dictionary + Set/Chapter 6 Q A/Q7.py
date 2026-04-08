@@ -1,4 +1,4 @@
-# if the name of 2 friends aresame; what will happen toprogram in problem 6?
+# if the name of 2 friends are same; what will happen toprogram in problem 6 ?
 
 
 A = {}
