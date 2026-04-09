@@ -12,3 +12,11 @@ for i in seq:
 
 for i in range(6):
     print(i)        # 0 1 2 3 4 5
+
+
+for i in range(2, 10):       # range(start, stop)
+    print(i)         # 2 3 4 5 6 7 8 9 
+
+
+for i in range(2, 10, 2):       # range(start, stop, step)
+    print(i)        # 2  4  6  8  
