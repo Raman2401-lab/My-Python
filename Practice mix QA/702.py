@@ -1,0 +1,6 @@
+# Reverse String func
+
+def reverse(s):
+    return s[::-1]
+
+print(reverse("Python"))
