@@ -1,0 +1,9 @@
+
+Character       Meaning
+'r'             Open for reading(default)
+'w'             open for writing, overwriting
+'x'             create a new file and open it for writing
+'a'             open for writing, appending to the end of file if it exists
+'b'             binary mode
+'t'             text mode (default)
+'+'             Open a disk file for updating (reading and writing)         
